@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Sero",
+  name: "Caleb",
   role: "Software Engineer",
   bio: "I'm a software engineer that loves building products and teaching others how to do the same.",
   imageUrl: "https://i.imgur.com/2m4XIqN.png",
